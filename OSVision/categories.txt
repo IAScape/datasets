@@ -1,0 +1,14 @@
+1,combat-ux
+2,levels-ux
+3,quests-ux
+4,inventory-ux
+5,armor-ux
+6,prayer-ux
+7,spells-ux
+8,friends-ux
+10,inv-ux
+50,anvil
+51,door
+52,bank
+53,player
+100,guard
