@@ -11,4 +11,5 @@
 51,door
 52,bank
 53,player
+54,banker
 100,guard
