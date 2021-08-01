@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp</folder>
+	<filename>00014.png</filename>
+	<path>/Users/fernandoduarte/Downloads/temp/00014.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>81</ymin>
+			<xmax>370</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>
